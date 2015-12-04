@@ -9,3 +9,5 @@ of Canada
 5. New Brunswic
 6. Manitoba
 7. Saskatchewan
+8. British Columbia
+9. Prince Eduard Island
