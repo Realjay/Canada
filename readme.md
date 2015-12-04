@@ -6,4 +6,6 @@ of Canada
 2. Ontario
 3. Alberta
 4. Nova Scotia
-5. New Brunswick
+5. New Brunswic
+6. Manitoba
+7. Saskatchewan
